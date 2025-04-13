@@ -8,6 +8,8 @@ Acknowledgments: Thanks to Shasha, Siya, the open-source community, and online r
 ### Assignment 5 Reflection
 Putting the idea on paper was super exciting, but the implementation was super challenging. Having Math symbols on the system was a super challenging implementation. The choice of the backend language and the database a challenging; ultimately, JavaScript wins.
 
+### Assignment 6 Reflection
+I was so excited to come up with the idea of developing a Math App that would help learners improve their Math mark. The biggest challenge was implementing Math symbols and the CRUD in the application. Instant messaging took more time than expected because, I took Frond end designers a week more to do wireframes, hence the project was delayed by a week. User interfaces were below standards and had to be redone more than three times. 
 
 ### Assignment 7 Reflection
 I tried to make/export a Kanban board to an .md file, but it doesn't show as it is on the projects. Please refer to the one in the projects. I made projects accessible for reference, as they show exactly what I did. I learnt that system design and system development need extensive research on how user needs or conceptual ideas would be transformed into a real-life system. User requirements are huge when it comes to system design. One has to do extensive research, otherwise, the system may not serve what it was developed for.
