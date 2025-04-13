@@ -8,8 +8,17 @@ Acknowledgments: Thanks to Shasha, Siya, the open-source community, and online r
 ### Assignment 5 Reflection
 Putting the idea on paper was super exciting, but the implementation was super challenging. Having Math symbols on the system was a super challenging implementation. The choice of the backend language and the database a challenging; ultimately, JavaScript wins.
 
+
 ### Assignment 7 Reflection
 I tried to make/export a Kanban board to an .md file, but it doesn't show as it is on the projects. Please refer to the one in the projects. I made projects accessible for reference, as they show exactly what I did. I learnt that system design and system development need extensive research on how user needs or conceptual ideas would be transformed into a real-life system. User requirements are huge when it comes to system design. One has to do extensive research, otherwise, the system may not serve what it was developed for.
+
+#  Reflection: Assignment 8 – State and Activity Modeling
+
+In this assignment, I worked on showing how parts of the Math Booster App behave and how certain tasks are done step by step. I used state diagrams to show how things like quizzes change from one stage to another, such as starting, submitting, and completing.
+
+I also used activity diagrams to explain the steps a learner follows when taking a quiz, from the beginning to the end. These diagrams helped me understand how the system flows and reacts to user actions.
+
+Overall, this helped me see how the app functions behind the scenes and how different tasks are organized and connected.
 
 ###  Assignment 9: Reflection on Domain Modeling and Class Diagram Design
 
