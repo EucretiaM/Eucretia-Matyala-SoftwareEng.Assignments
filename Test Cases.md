@@ -1,0 +1,12 @@
+### Test Cases Table
+
+| ID     | Requirement ID | Description                                      | Steps                                                                 | Expected Results                     | Actual Result                     | Status       |
+|--------|----------------|--------------------------------------------------|----------------------------------------------------------------------|--------------------------------------|-----------------------------------|--------------|
+| TC_01  | RI_01          | Start Answering the Assessment                  | 1. Learner clicks the new assessment link, reads, and begins         | The system response was in 1.5 seconds | The system response in 1.3s      | Pass         |
+| TC_02  | RI_02          | Editing the Assessment using the Edit Button and Save using Save Button | The learner clicks the edit button and clicks the save button        | The system responds within 2.5s      | The system responds in 1.8s      | Pass         |
+| TC_03  | RI_03          | Submitting the Assessment                       | The learner clicks the submit button                                | The system response was 1.6s         | The system response was 1.3s     | Pass         |
+| TC_04  | RI_04          | Uploading Assessments on the System             | The educator clicks the upload button to open uploads option        | The system responded in 5s           | The system responded in 7s       | Pass         |
+| TC_05  | RI_05          | Report Generation                               | The educator clicks the generate report button to generate reports based on criteria | The system responds in 1.4s          | The system response in 1.1s      | Pass         |
+| TC_06  | RI_06          | Deletion of Redundant Records                   | The system administrator clicks the delete button to remove redundancies | The system response in 1.6s          | The system responded in 1s       | Pass         |
+| TC_07  | RI_07          | Updating of the System                          | The software developer signs in as admin and gets into the backend  | The period is unknown, but could be long | The period is unknown, but could be long | Could be both |
+| TC_08  | RI_07          | Checking Assessment Scores                      | The learner clicks check score button to reveal scores              | The system response period is 1.7s   | The period responded in 1.3s     | Pass         |
