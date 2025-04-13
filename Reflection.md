@@ -1,3 +1,10 @@
+### Assignment 2 Reflection
+Running this project was challenging due to errors caused by syntax, logic, dependencies, or configuration issues. Despite debugging, testing, and consulting documentation and forums, I couldn't get it to run. AI was invaluable for breaking down problems and offering step-by-step guidance, while documentation and online communities provided deeper insights and practical examples. Tutorials and guides helped clarify foundational concepts.
+
+When stuck, I learned the importance of persistence, taking breaks, and seeking clarification. These challenges taught me to use resources effectively and view failures as learning opportunities.
+
+Acknowledgments: Thanks to Shasha, Siya, the open-source community, and online resources for their support and tools that enhanced my understanding.
+
 ### Assignment 5 Reflection
 Putting the idea on paper was super exciting, but the implementation was super challenging. Having Math symbols on the system was a super challenging implementation. The choice of the backend language and the database a challenging; ultimately, JavaScript wins.
 
