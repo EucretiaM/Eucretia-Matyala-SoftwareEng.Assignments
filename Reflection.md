@@ -12,7 +12,7 @@ Putting the idea on paper was super exciting, but the implementation was super c
 ### Assignment 7 Reflection
 I tried to make/export a Kanban board to an .md file, but it doesn't show as it is on the projects. Please refer to the one in the projects. I made projects accessible for reference, as they show exactly what I did. I learnt that system design and system development need extensive research on how user needs or conceptual ideas would be transformed into a real-life system. User requirements are huge when it comes to system design. One has to do extensive research, otherwise, the system may not serve what it was developed for.
 
-#  Reflection: Assignment 8 – State and Activity Modeling
+### Reflection: Assignment 8 – State and Activity Modeling
 
 In this assignment, I worked on showing how parts of the Math Booster App behave and how certain tasks are done step by step. I used state diagrams to show how things like quizzes change from one stage to another, such as starting, submitting, and completing.
 
