@@ -1,7 +1,11 @@
-
 # Math Booster - Class Diagram
-
-This diagram models the core structure of the Math Booster platform. It captures the primary entities, their attributes and methods, and the relationships between them.
+This diagram models the core structure of the Math Booster platform. It captures the primary entities, their attributes and methods, and the relationships between them. The class diagram provides a clear blueprint of the system's object structure, helping developers understand roles, data flow, and system behavior for a well-organized and secure learning experience.
+- **Users** are the base class for learners and educators.
+- **Learners** interact with assessments by submitting and reviewing.
+- **Educators** create assessments, mark submissions, and generate reports.
+- **Submissions** connect learners and assessments, and require OTP for security.
+- **Reports** are based on submission data.
+- **Notifications** keep users informed of updates.
 ---
 ```mermaid
 classDiagram
