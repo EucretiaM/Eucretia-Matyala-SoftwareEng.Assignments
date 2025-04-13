@@ -44,4 +44,10 @@ A web and app-based platform to improve Mathematics marks for primary and high s
 
 #### [Test Cases](Test%20Cases.md)
 
+#### [Use Case Specification](Use_Case_Specification.md)
+
+#### [User Story Creation](User%20Story%20Creation.md)
+
+#### [Template Analysis](template_analysis.md)
+
 
