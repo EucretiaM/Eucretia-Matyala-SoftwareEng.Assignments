@@ -20,7 +20,7 @@ A web and app-based platform to improve Mathematics marks for primary and high s
 
 ### Links
 
-#### [link to Assignment 8](https://github.com/EucretiaM/EucretiaM-Assignment8)
+#### [Activity Diagrams Folder](./Activity%20Diagrams)
 
 #### [Architecture](Architecture.md)
 
@@ -41,6 +41,8 @@ A web and app-based platform to improve Mathematics marks for primary and high s
 #### [Stakeholder Analysis Table](Stakeholder%20Analysis%20Table.md)
 
 #### [System Requirements Document](System%20Requirements%20Document.md)
+
+#### [State Transitions Diagrams Folder](./State%20Transition%20Diagrams)
 
 #### [Test Cases](Test%20Cases.md)
 
