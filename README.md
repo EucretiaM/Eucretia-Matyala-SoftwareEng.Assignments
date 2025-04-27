@@ -20,7 +20,7 @@ A web and app-based platform to improve Mathematics marks for primary and high s
 
 ### Links
 
-#### [ASSIGNMENT 11](https://github.com/EucretiaM/Assignment-11)
+#### [ASSIGNMENT 11](https://github.com/EucretiaM/EucretiaM-Assignment-11.git)
 
 #### [ASSIGNMENT 10](https://github.com/EucretiaM/Assignment-10)
 
